@@ -13,6 +13,6 @@ public class TestCase {
 
     @Test
     public void case02(){
-        Assert.assertEquals("a","b");
+        Assert.assertEquals("a","a");
     }
 }
